@@ -7,3 +7,8 @@ This paper presents a comprehensive review of the state-of-the-art techniques in
 ![image](https://github.com/user-attachments/assets/5615b125-bf96-448d-8893-20d1e33e8d8c)
 DEMO OUTPUT:
 ![image](https://github.com/user-attachments/assets/bd2630fd-5923-4f21-8f6d-a06727c76999)
+
+INSTRUCTION :
+1. Run datacollection.py file and capture all the images u want within the proper dataset.
+2. after that use https://teachablemachine.withgoogle.com/train/image to train the ML model
+3. after that download the keras file and navigate it to the test.py file  
