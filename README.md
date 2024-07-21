@@ -11,4 +11,8 @@ DEMO OUTPUT:
 INSTRUCTION :
 1. Run datacollection.py file and capture all the images u want within the proper dataset.
 2. after that use https://teachablemachine.withgoogle.com/train/image to train the ML model
-3. after that download the keras file and navigate it to the test.py file  
+3. after that download the keras file and navigate it to the test.py file in classifier section
+4. then run the test.py file
+5. Voila It detects the every sign language perfectly
+
+NOTE : Capture many pictures to train the model accrately.
